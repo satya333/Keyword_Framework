@@ -1,0 +1,7 @@
+<suite name="DeltaSuite" parallel="tests">
+  <test name="ChromeTest">
+    <classes>
+      <class name="delta.main.DeltaDriver"/>
+    </classes>
+  </test>
+</suite>
